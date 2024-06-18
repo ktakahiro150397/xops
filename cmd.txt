@@ -1,0 +1,4 @@
+tsay Grenade!
+tsay Go go go!
+tsay Cover me!
+tsay Negative!!

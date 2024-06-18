@@ -1,0 +1,7 @@
+bang Grenade
+bang1 MP5/G18
+bang2 PSG1/AK
+bang3 M1/DE
+bang4 M1911/MAC10/M4
+bang5 AUG/Mk23
+ka MP5SD
