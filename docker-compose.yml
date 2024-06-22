@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    environment:
+      - DISPLAY=$DISPLAY
+    volumes:
+      - .:/app
+    network_mode: "host"
+    command: sleep infinity
+
